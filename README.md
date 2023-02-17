@@ -1,4 +1,4 @@
-![alt text](https://github.com/Magicjg/curso_git/logo/logo.png "Alanjg_")
+![alt text](https://github.com/Magicjg/curso_git/blob/master/logo/logo.png "Alanjg_")
 
 # Curso git.
 
